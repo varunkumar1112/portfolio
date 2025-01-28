@@ -148,7 +148,7 @@ function App() {
         <div className="max-w-6xl mx-auto flex flex-col items-center text-center">
           <div className="w-48 h-48 rounded-full overflow-hidden mb-8 border-4 border-indigo-500 dark:border-indigo-400">
             <img
-              src="/images/varun.jpg"
+              src="/varun.jpg"
               alt="Varun Kumar"
               className="w-full h-full object-cover"
             />
